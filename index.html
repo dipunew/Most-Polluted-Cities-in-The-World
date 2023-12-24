@@ -4,27 +4,32 @@
 <head>
     <meta charset="utf-8">
     <title>Most Polluted Cities</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Open+Sans&display=swap"
+        rel="stylesheet">
     <style>
         body {
             margin: 0;
             background-color: aliceblue;
+            font-family: 'Open Sans', sans-serif;
         }
 
-        /* Make the page 700px wide, centered */
         .container {
             width: 700px;
             margin: 4em auto;
         }
 
-        /* Use a nice font */
-        body {
-            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        }
-
         h1 {
             text-align: center;
-            font-size: 3em;
-            margin: 2em 0;
+            font-family: 'Roboto', sans-serif;
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 1.5em;
+            color: #555;
+            margin-top: 0;
         }
 
         .graphic {
@@ -43,20 +48,36 @@
 
 <body>
     <div class="container">
-        <h1>Most Polluted Cities Across the World </h1>
-        <h3>Major cities of the world, ranked by their air quality</h3>
+        <h1>World's Air Quality Index</h1>
+        <h2>Exploring Air Pollution in Major Global Cities</h2>
 
         <div class="graphic">
-            <iframe title="" aria-label="Table" id="datawrapper-chart-zShRQ"
+            <iframe title="Air Quality Data" aria-label="Table" id="datawrapper-chart-zShRQ"
                 src="https://datawrapper.dwcdn.net/zShRQ/2/" scrolling="no" frameborder="0"
                 style="width: 0; min-width: 100% !important; border: none;" height="1823" data-external="1"></iframe>
-            <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
+            <script type="text/javascript">
+                !function () {
+                    "use strict";
+                    window.addEventListener("message", function (a) {
+                        if (void 0 !== a.data["datawrapper-height"]) {
+                            var e = document.querySelectorAll("iframe");
+                            for (var t in a.data["datawrapper-height"]) {
+                                for (var r = 0; r < e.length; r++) {
+                                    if (e[r].contentWindow === a.source) {
+                                        var i = a.data["datawrapper-height"][t] + "px";
+                                        e[r].style.height = i;
+                                    }
+                                }
+                            }
+                        }
+                    });
+                }();
             </script>
-
         </div>
     </div>
     <div id="footer">
         <p>This website was made for a test of auto-updating websites, inspired by J Soma.</p>
     </div>
+</body>
 
 </html>
