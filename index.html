@@ -25,29 +25,17 @@
             margin-bottom: 0.5em;
         }
 
-        h2,
-        .byline {
+        h2 {
             text-align: center;
             font-size: 1.5em;
             color: #555;
             margin-top: 0;
         }
 
-        .byline {
-            font-style: italic;
-            margin-bottom: 2em;
-        }
-
         .date-display {
             text-align: center;
             font-size: 1em;
             margin-bottom: 1em;
-        }
-
-        .dynamic-paragraph {
-            text-align: center;
-            margin: 1em auto;
-            font-size: 1.2em;
         }
 
         .graphic {
@@ -68,15 +56,7 @@
     <div class="container">
         <h1>World's Air Quality Index</h1>
         <h2>Exploring Air Pollution in Major Global Cities</h2>
-        <p class="byline">By Dipu Rai</p>
-        <p class="date-display" id="current-date">Date: </p>
-
-        <p class="dynamic-paragraph">
-            Among the cities currently leading in air pollution levels, [City 1] in [Country 1] reports the highest AQI
-            at [Value 1], followed closely by [City 2] in [Country 2] with an AQI of [Value 2]. Other notable cities
-            include [City 3] in [Country 3] and [City 4] in [Country 4], showcasing AQI levels of [Value 3] and [Value
-            4], respectively. These figures underline the ongoing challenges faced in urban air quality management.
-        </p>
+        <p class="date-display" id="current-date">Data as of: </p>
 
         <div class="graphic">
             <iframe title="Air Quality Data" aria-label="Table" id="datawrapper-chart-zShRQ"
@@ -109,8 +89,10 @@
     <script>
         function updateDate() {
             var currentDate = new Date();
-            var formattedDate = currentDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-            document.getElementById('current-date').innerText = 'Data as of: ' + formattedDate;
+            currentDate.setHours(currentDate.getHours() + 5); // Adding 5 hours for IST
+            currentDate.setMinutes(currentDate.getMinutes() + 30); // Adding 30 minutes for IST
+            var formattedDate = currentDate.toLocaleString('en-IN', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+            document.getElementById('current-date').innerText = 'Data as of: ' + formattedDate + ' IST';
         }
         updateDate();
     </script>
