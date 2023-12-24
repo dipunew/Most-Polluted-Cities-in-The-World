@@ -4,38 +4,43 @@
 <head>
     <meta charset="utf-8">
     <title>Most Polluted Cities</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Open+Sans&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+Pro&display=swap"
         rel="stylesheet">
     <style>
         body {
             margin: 0;
             background-color: aliceblue;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Source Sans Pro', sans-serif;
+            line-height: 1.6;
         }
 
         .container {
             width: 700px;
             margin: 4em auto;
+            padding: 1em;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
         h1 {
-            text-align: center;
-            font-family: 'Roboto', sans-serif;
-            font-size: 2.5em;
-            margin-bottom: 0.5em;
+            font-family: 'Merriweather', serif;
+            font-size: 2em;
+            margin-bottom: 0.25em;
+            color: #333;
         }
 
         h2 {
-            text-align: center;
-            font-size: 1.5em;
-            color: #555;
+            font-size: 1.2em;
+            color: #666;
             margin-top: 0;
         }
 
         .date-display {
-            text-align: center;
-            font-size: 1em;
-            margin-bottom: 1em;
+            text-align: right;
+            font-size: 0.9em;
+            color: #999;
+            margin-top: -1em;
+            margin-bottom: 2em;
         }
 
         .graphic {
@@ -45,17 +50,19 @@
 
         #footer {
             text-align: center;
-            padding: 4em;
+            padding: 2em;
             background-color: #f0f1ff;
             border-top: solid white 5px;
+            font-size: 0.9em;
+            color: #666;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1>World's Air Quality Index</h1>
-        <h2>Exploring Air Pollution in Major Global Cities</h2>
+        <h1>World's Most Polluted Cities</h1>
+        <h2>Real-time Air Quality Index (AQI) & Ranking of Cities</h2>
         <p class="date-display" id="current-date">Data as of: </p>
 
         <div class="graphic">
@@ -83,7 +90,7 @@
         </div>
     </div>
     <div id="footer">
-        <p>This website was made for a test of auto-updating websites, inspired by J Soma.</p>
+        <p>This website is a test for educational purposes only, inspired by J Soma.</p>
     </div>
 
     <script>
