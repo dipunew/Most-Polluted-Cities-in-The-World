@@ -4,7 +4,9 @@
 <head>
     <meta charset="utf-8">
     <title>Most Polluted Cities</title>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+Pro&display=swap"
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+Pro:wght@400;700&display=swap"
         rel="stylesheet">
     <style>
         body {
@@ -15,7 +17,7 @@
         }
 
         .container {
-            width: 700px;
+            max-width: 700px;
             margin: 4em auto;
             padding: 1em;
             background-color: #fff;
@@ -24,27 +26,27 @@
 
         h1 {
             font-family: 'Merriweather', serif;
-            font-size: 2em;
+            font-size: 2.2em;
             margin-bottom: 0.25em;
             color: #333;
         }
 
         h2 {
-            font-size: 1.2em;
+            font-size: 1.4em;
             color: #666;
             margin-top: 0;
         }
 
         .date-display {
             text-align: right;
-            font-size: 0.9em;
+            font-size: 1em;
             color: #999;
             margin-top: -1em;
             margin-bottom: 2em;
         }
 
         .graphic {
-            max-width: 600px;
+            max-width: 100%;
             margin: 2em auto;
         }
 
@@ -53,8 +55,34 @@
             padding: 2em;
             background-color: #f0f1ff;
             border-top: solid white 5px;
-            font-size: 0.9em;
+            font-size: 1em;
             color: #666;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                width: 95%;
+                margin: 2em auto;
+                padding: 0.5em;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            h2 {
+                font-size: 1.2em;
+            }
+
+            .date-display {
+                font-size: 0.9em;
+                margin-top: 0;
+                margin-bottom: 1em;
+            }
+
+            #footer {
+                font-size: 0.9em;
+            }
         }
     </style>
 </head>
@@ -96,10 +124,8 @@
     <script>
         function updateDate() {
             var currentDate = new Date();
-            currentDate.setHours(currentDate.getHours() + 5); // Adding 5 hours for IST
-            currentDate.setMinutes(currentDate.getMinutes() + 30); // Adding 30 minutes for IST
-            var formattedDate = currentDate.toLocaleString('en-IN', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
-            document.getElementById('current-date').innerText = 'Data as of: ' + formattedDate + ' IST';
+            var formattedDate = currentDate.toLocaleString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+            document.getElementById('current-date').innerText = 'Data as of: ' + formattedDate;
         }
         updateDate();
     </script>
