@@ -1,3 +1,10 @@
+#data
+air-quality.csv
+#code updater
+AQI updater.Ipynb
+index.html
+README.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
