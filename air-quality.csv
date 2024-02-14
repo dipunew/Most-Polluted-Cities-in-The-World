@@ -9,8 +9,8 @@ Rank,Location,AQI Level,Followers
 8,"Baghdad, Iraq",162,17.4K followers
 9,"Kathmandu, Nepal",159,133.7K followers
 10,"Bangkok, Thailand",157,5.2M followers
-11,"Belgrade, Serbia",151,178.7K followers
-12,"Chongqing, China",134,154.5K followers
+11,"Belgrade, Serbia",151,178.6K followers
+12,"Chongqing, China",137,154.5K followers
 13,"Shanghai, China",134,2M followers
 14,"Yangon, Myanmar",120,17.4K followers
 15,"Accra, Ghana",116,5.4K followers
@@ -19,18 +19,18 @@ Rank,Location,AQI Level,Followers
 18,"Wuhan, China",103,291.2K followers
 19,"Zagreb, Croatia",102,12K followers
 20,"Sarajevo, Bosnia Herzegovina",99,43.1K followers
-21,"Hanoi, Vietnam",97,2.1M followers
-22,"Chiang Mai, Thailand",96,11.5M followers
-23,"Mexico City, Mexico",95,329.1K followers
-24,"Guangzhou, China",91,1.5M followers
-25,"Rome, Italy",89,51.9K followers
-26,"Krakow, Poland",88,295.6K followers
-27,"Shenyang, China",88,156.4K followers
-28,"Kuwait City, Kuwait",86,61.2K followers
-29,"Milano, Italy",86,82K followers
+21,"Chiang Mai, Thailand",96,11.5M followers
+22,"Mexico City, Mexico",95,329.1K followers
+23,"Rome, Italy",89,51.9K followers
+24,"Krakow, Poland",88,295.6K followers
+25,"Shenyang, China",88,156.4K followers
+26,"Hanoi, Vietnam",87,2.1M followers
+27,"Kuwait City, Kuwait",86,61.2K followers
+28,"Milano, Italy",86,82K followers
+29,"Guangzhou, China",86,1.5M followers
 30,"Chengdu, China",82,1.7M followers
 31,"Tehran, Iran",80,1M followers
-32,"Shenzhen, China",80,349.2K followers
+32,"Shenzhen, China",80,349.3K followers
 33,"Jakarta, Indonesia",78,1.6M followers
 34,"Ulaanbaatar, Mongolia",77,47.8K followers
 35,"Tokyo, Japan",76,953.1K followers
@@ -38,19 +38,19 @@ Rank,Location,AQI Level,Followers
 37,"Astana, Kazakhstan",74,20.7K followers
 38,"Nagoya, Japan",74,7.6K followers
 39,"Phnom Penh, Cambodia",70,381.8K followers
-40,"Osaka, Japan",70,47.2K followers
-41,"Seoul, South Korea",70,5.7M followers
-42,"Lyon, France",69,477.3K followers
+40,"Osaka, Japan",70,47.3K followers
+41,"Lyon, France",69,477.3K followers
+42,"Seoul, South Korea",68,5.7M followers
 43,"Bishkek, Kyrgyzstan",67,32.3K followers
-44,"Kyoto, Japan",66,73.4K followers
-45,"Doha, Qatar",64,93.5K followers
-46,"Bratislava, Slovakia",64,36.4K followers
-47,"Skopje, North Macedonia",63,11.7K followers
-48,"Tel Aviv-Yafo, Israel",63,75.4K followers
-49,"Pristina, Kosovo",63,10.7K followers
-50,"Kaohsiung, Taiwan",63,663.9K followers
-51,"Nairobi, Kenya",63,12K followers
-52,"Hong Kong, Hong Kong SAR",62,629.5K followers
+44,"Hong Kong, Hong Kong SAR",67,629.5K followers
+45,"Kyoto, Japan",66,73.4K followers
+46,"Doha, Qatar",64,93.5K followers
+47,"Bratislava, Slovakia",64,36.4K followers
+48,"Skopje, North Macedonia",63,11.7K followers
+49,"Tel Aviv-Yafo, Israel",63,75.4K followers
+50,"Pristina, Kosovo",63,10.7K followers
+51,"Kaohsiung, Taiwan",63,664K followers
+52,"Nairobi, Kenya",63,12K followers
 53,"Wroclaw, Poland",61,249.6K followers
 54,"Kobe, Japan",61,26.3K followers
 55,"Riyadh, Saudi Arabia",59,79K followers
@@ -63,9 +63,9 @@ Rank,Location,AQI Level,Followers
 62,"Busan, South Korea",56,141.4K followers
 63,"Poznan, Poland",55,8K followers
 64,"Sofia, Bulgaria",55,105.7K followers
-65,"Moscow, Russia",53,725.1K followers
+65,"Moscow, Russia",53,725K followers
 66,"Oslo, Norway",53,25.2K followers
-67,"Budapest, Hungary",53,17.9K followers
+67,"Budapest, Hungary",53,17.8K followers
 68,"Istanbul, Turkey",53,208.1K followers
 69,"Madrid, Spain",45,314.2K followers
 70,"Lima, Peru",44,33.2K followers
@@ -84,9 +84,9 @@ Rank,Location,AQI Level,Followers
 83,"Prague, Czech Republic",30,101K followers
 84,"Bern, Switzerland",29,80.2K followers
 85,"Berlin, Germany",29,178.9K followers
-86,"London, United Kingdom",29,187.4K followers
-87,"Brussels, Belgium",28,133.8K followers
-88,"Vienna, Austria",27,133.8K followers
+86,"Vienna, Austria",29,133.8K followers
+87,"London, United Kingdom",29,187.4K followers
+88,"Brussels, Belgium",28,133.8K followers
 89,"Tashkent, Uzbekistan",25,84.4K followers
 90,"Beijing, China",25,6.1M followers
 91,"Minneapolis, USA",25,13.2K followers
