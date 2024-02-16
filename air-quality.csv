@@ -1,14 +1,14 @@
 Rank,Location,AQI Level,Followers
 1,"Lahore, Pakistan",299,367.6K followers
-2,"Dhaka, Bangladesh",221,217.7K followers
-3,"Mumbai, India",218,1.5M followers
-4,"Delhi, India",205,2.7M followers
+2,"Delhi, India",224,2.7M followers
+3,"Dhaka, Bangladesh",221,217.7K followers
+4,"Mumbai, India",218,1.5M followers
 5,"Karachi, Pakistan",187,64K followers
 6,"Kolkata, India",184,1.4M followers
 7,"Kathmandu, Nepal",166,134.1K followers
 8,"Yangon, Myanmar",158,17.6K followers
-9,"Hanoi, Vietnam",157,2.1M followers
-10,"Beijing, China",157,6.2M followers
+9,"Beijing, China",157,6.2M followers
+10,"Hanoi, Vietnam",156,2.1M followers
 11,"Jakarta, Indonesia",155,1.6M followers
 12,"Kabul, Afghanistan",153,18.3K followers
 13,"Kuwait City, Kuwait",152,61.3K followers
@@ -37,7 +37,7 @@ Rank,Location,AQI Level,Followers
 36,"Accra, Ghana",75,5.5K followers
 37,"Prague, Czech Republic",75,101K followers
 38,"Poznan, Poland",74,8.1K followers
-39,"Guangzhou, China",71,1.5M followers
+39,"Guangzhou, China",72,1.5M followers
 40,"Riyadh, Saudi Arabia",70,79.2K followers
 41,"Bangkok, Thailand",70,5.2M followers
 42,"Phnom Penh, Cambodia",69,382.2K followers
@@ -49,8 +49,8 @@ Rank,Location,AQI Level,Followers
 48,"Los Angeles, USA",63,5.4M followers
 49,"Krakow, Poland",61,295.8K followers
 50,"Santiago, Chile",61,90.8K followers
-51,"Jerusalem, Israel",60,57.7K followers
-52,"Nairobi, Kenya",60,12K followers
+51,"Nairobi, Kenya",60,12K followers
+52,"Jerusalem, Israel",59,57.7K followers
 53,"Algiers, Algeria",58,36.5K followers
 54,"Astana, Kazakhstan",58,20.8K followers
 55,"Budapest, Hungary",57,18K followers
@@ -89,9 +89,9 @@ Rank,Location,AQI Level,Followers
 88,"Kuching, Malaysia",29,47.9K followers
 89,"Krasnoyarsk, Russia",29,92.1K followers
 90,"Minneapolis, USA",29,13.2K followers
-91,"San Francisco, USA",28,550.6K followers
-92,"New York City, USA",27,1.8M followers
-93,"Kyoto, Japan",27,73.7K followers
+91,"Kyoto, Japan",29,73.7K followers
+92,"San Francisco, USA",28,550.6K followers
+93,"New York City, USA",27,1.8M followers
 94,"Seattle, USA",27,277.7K followers
 95,"Helsinki, Finland",25,69.9K followers
 96,"Bogota, Colombia",25,76.9K followers
