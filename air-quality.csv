@@ -30,18 +30,18 @@ Rank,Location,AQI Level,Followers
 29,"Dubai, United Arab Emirates",81,336.6K followers
 30,"Bogota, Colombia",80,77.1K followers
 31,"Skopje, North Macedonia",76,12K followers
-32,"Johannesburg, South Africa",75,60.6K followers
-33,"Shenzhen, China",72,353.9K followers
-34,"Hong Kong, Hong Kong SAR",71,634.9K followers
-35,"Kuala Lumpur, Malaysia",70,360K followers
-36,"Guangzhou, China",70,1.5M followers
-37,"Istanbul, Turkey",70,209.5K followers
-38,"Doha, Qatar",64,94.3K followers
-39,"Ho Chi Minh City, Vietnam",63,2.2M followers
-40,"Sarajevo, Bosnia Herzegovina",62,43.8K followers
-41,"Jerusalem, Israel",60,57.9K followers
-42,"Moscow, Russia",60,728.6K followers
-43,"Lima, Peru",60,33.4K followers
+32,"Shenzhen, China",72,353.9K followers
+33,"Hong Kong, Hong Kong SAR",71,634.9K followers
+34,"Kuala Lumpur, Malaysia",70,360K followers
+35,"Guangzhou, China",70,1.5M followers
+36,"Istanbul, Turkey",70,209.5K followers
+37,"Doha, Qatar",64,94.3K followers
+38,"Ho Chi Minh City, Vietnam",63,2.2M followers
+39,"Sarajevo, Bosnia Herzegovina",62,43.8K followers
+40,"Jerusalem, Israel",60,57.9K followers
+41,"Moscow, Russia",60,728.6K followers
+42,"Lima, Peru",60,33.4K followers
+43,"Johannesburg, South Africa",59,60.6K followers
 44,"Kuwait City, Kuwait",59,61.5K followers
 45,"Kampala, Uganda",59,8.9K followers
 46,"Bangkok, Thailand",59,5.2M followers
@@ -55,10 +55,10 @@ Rank,Location,AQI Level,Followers
 54,"New York City, USA",45,1.8M followers
 55,"Hanoi, Vietnam",41,2.1M followers
 56,"Busan, South Korea",41,144.2K followers
-57,"Nairobi, Kenya",40,12.2K followers
-58,"Houston, USA",40,22.8K followers
-59,"Taipei, Taiwan",37,944.8K followers
-60,"Seoul, South Korea",37,5.8M followers
+57,"Seoul, South Korea",41,5.8M followers
+58,"Nairobi, Kenya",40,12.2K followers
+59,"Houston, USA",40,22.8K followers
+60,"Taipei, Taiwan",37,944.8K followers
 61,"Kyiv, Ukraine",35,255.8K followers
 62,"Santiago, Chile",33,91K followers
 63,"Sao Paulo, Brazil",33,77.3K followers
@@ -85,27 +85,27 @@ Rank,Location,AQI Level,Followers
 84,"Rotterdam, Netherlands",25,117.7K followers
 85,"Nagoya, Japan",25,7.9K followers
 86,"Lyon, France",24,478.2K followers
-87,"Madrid, Spain",24,315.5K followers
-88,"Krakow, Poland",23,296.5K followers
-89,"Zagreb, Croatia",23,12.4K followers
-90,"Berlin, Germany",22,180.7K followers
-91,"Algiers, Algeria",21,36.6K followers
-92,"Osaka, Japan",21,49.3K followers
-93,"London, United Kingdom",21,193.6K followers
-94,"Kyoto, Japan",19,74.3K followers
-95,"Rome, Italy",17,55.2K followers
-96,"Pristina, Kosovo",17,11K followers
-97,"Kobe, Japan",17,26.5K followers
-98,"Salt Lake City, USA",17,40.4K followers
-99,"Melbourne, Australia",16,271.8K followers
-100,"Los Angeles, USA",16,5.4M followers
-101,"Montreal, Canada",15,102K followers
-102,"Canberra, Australia",15,266.8K followers
-103,"Sydney, Australia",15,1.6M followers
-104,"San Francisco, USA",15,553.5K followers
-105,"Toronto, Canada",14,314.2K followers
-106,"Sofia, Bulgaria",12,106.1K followers
-107,"Detroit, USA",12,23K followers
-108,"Minneapolis, USA",12,13.4K followers
-109,"Chicago, USA",8,36.7K followers
-110,"Denver, USA",4,1.5M followers
+87,"Toronto, Canada",24,314.2K followers
+88,"Madrid, Spain",24,315.5K followers
+89,"Krakow, Poland",23,296.5K followers
+90,"Zagreb, Croatia",23,12.4K followers
+91,"Berlin, Germany",22,180.7K followers
+92,"Algiers, Algeria",21,36.6K followers
+93,"Osaka, Japan",21,49.3K followers
+94,"London, United Kingdom",21,193.6K followers
+95,"Kyoto, Japan",19,74.3K followers
+96,"Rome, Italy",17,55.2K followers
+97,"Pristina, Kosovo",17,11K followers
+98,"Kobe, Japan",17,26.5K followers
+99,"Salt Lake City, USA",17,40.4K followers
+100,"Melbourne, Australia",16,271.8K followers
+101,"Los Angeles, USA",16,5.4M followers
+102,"Montreal, Canada",15,102K followers
+103,"Canberra, Australia",15,266.8K followers
+104,"Sydney, Australia",15,1.6M followers
+105,"San Francisco, USA",15,553.5K followers
+106,"Minneapolis, USA",13,13.4K followers
+107,"Sofia, Bulgaria",12,106.1K followers
+108,"Detroit, USA",11,23K followers
+109,"Denver, USA",8,1.5M followers
+110,"Chicago, USA",8,36.7K followers
