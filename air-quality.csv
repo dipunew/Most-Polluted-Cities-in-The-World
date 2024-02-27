@@ -1,15 +1,15 @@
 Rank,Location,AQI Level,Followers
 1,"Dhaka, Bangladesh",185,218.9K followers
 2,"Shenyang, China",178,160.1K followers
-3,"Bishkek, Kyrgyzstan",170,33.4K followers
-4,"Delhi, India",166,2.7M followers
+3,"Delhi, India",171,2.7M followers
+4,"Bishkek, Kyrgyzstan",170,33.4K followers
 5,"Wuhan, China",162,296.6K followers
 6,"Tehran, Iran",160,1M followers
 7,"Lahore, Pakistan",160,369.5K followers
-8,"Kolkata, India",157,1.4M followers
-9,"Beijing, China",154,6.3M followers
-10,"Kathmandu, Nepal",153,135.5K followers
-11,"Yangon, Myanmar",153,18.3K followers
+8,"Yangon, Myanmar",158,18.3K followers
+9,"Kolkata, India",157,1.4M followers
+10,"Beijing, China",154,6.3M followers
+11,"Kathmandu, Nepal",153,135.5K followers
 12,"Chengdu, China",151,1.7M followers
 13,"Chiang Mai, Thailand",151,11.5M followers
 14,"Chongqing, China",137,157.1K followers
@@ -19,8 +19,8 @@ Rank,Location,AQI Level,Followers
 18,"Krasnoyarsk, Russia",118,92.5K followers
 19,"Ulaanbaatar, Mongolia",117,48.4K followers
 20,"Tashkent, Uzbekistan",109,92.5K followers
-21,"Kaohsiung, Taiwan",107,667K followers
-22,"Mumbai, India",102,1.5M followers
+21,"Mumbai, India",107,1.5M followers
+22,"Kaohsiung, Taiwan",107,667K followers
 23,"Wroclaw, Poland",100,250.3K followers
 24,"Jakarta, Indonesia",99,1.6M followers
 25,"Hong Kong, Hong Kong SAR",95,636.3K followers
@@ -47,7 +47,7 @@ Rank,Location,AQI Level,Followers
 46,"Skopje, North Macedonia",68,12.1K followers
 47,"Shenzhen, China",68,355.2K followers
 48,"Kuwait City, Kuwait",65,61.6K followers
-49,"Warsaw, Poland",65,314.7K followers
+49,"Warsaw, Poland",65,314.8K followers
 50,"Istanbul, Turkey",65,209.9K followers
 51,"Minneapolis, USA",65,13.5K followers
 52,"Dubai, United Arab Emirates",63,337.9K followers
@@ -58,12 +58,12 @@ Rank,Location,AQI Level,Followers
 57,"Ho Chi Minh City, Vietnam",58,2.2M followers
 58,"New York City, USA",58,1.8M followers
 59,"Los Angeles, USA",57,5.5M followers
-60,"Jerusalem, Israel",56,57.9K followers
-61,"Moscow, Russia",56,729.7K followers
+60,"Moscow, Russia",56,729.7K followers
+61,"Jerusalem, Israel",55,57.9K followers
 62,"Singapore, Singapore",54,823.9K followers
-63,"Doha, Qatar",53,94.5K followers
-64,"Munich, Germany",53,325.9K followers
-65,"Berlin, Germany",53,181.2K followers
+63,"Berlin, Germany",54,181.2K followers
+64,"Doha, Qatar",53,94.5K followers
+65,"Munich, Germany",53,325.9K followers
 66,"Toronto, Canada",53,314.7K followers
 67,"Detroit, USA",53,23.1K followers
 68,"Nairobi, Kenya",53,12.3K followers
@@ -94,9 +94,9 @@ Rank,Location,AQI Level,Followers
 93,"Amsterdam, Netherlands",26,226.2K followers
 94,"Osaka, Japan",25,49.7K followers
 95,"Rotterdam, Netherlands",23,117.8K followers
-96,"Denver, USA",23,1.5M followers
-97,"Helsinki, Finland",21,70.4K followers
-98,"Kyoto, Japan",21,74.5K followers
+96,"Kyoto, Japan",23,74.5K followers
+97,"Denver, USA",23,1.5M followers
+98,"Helsinki, Finland",21,70.4K followers
 99,"Nice, France",20,445.7K followers
 100,"Houston, USA",20,23K followers
 101,"Oslo, Norway",19,26.4K followers
