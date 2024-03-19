@@ -1,10 +1,10 @@
 Rank,Location,AQI Level,Followers
-1,"Delhi, India",177,2.7M followers
-2,"Kathmandu, Nepal",176,138.3K followers
+1,"Kathmandu, Nepal",185,138.3K followers
+2,"Delhi, India",178,2.7M followers
 3,"Lahore, Pakistan",176,373K followers
 4,"Dhaka, Bangladesh",172,220.8K followers
 5,"Medan, Indonesia",170,1.3M followers
-6,"Yangon, Myanmar",158,20.5K followers
+6,"Yangon, Myanmar",157,20.5K followers
 7,"Chiang Mai, Thailand",157,11.6M followers
 8,"Riyadh, Saudi Arabia",153,81.3K followers
 9,"Ulaanbaatar, Mongolia",153,49.4K followers
@@ -13,14 +13,14 @@ Rank,Location,AQI Level,Followers
 12,"Shanghai, China",122,2M followers
 13,"Chengdu, China",114,1.7M followers
 14,"Milano, Italy",110,103.5K followers
-15,"Doha, Qatar",101,96.2K followers
-16,"Mumbai, India",99,1.5M followers
-17,"Chongqing, China",97,161.8K followers
+15,"Mumbai, India",102,1.5M followers
+16,"Doha, Qatar",101,96.2K followers
+17,"Chongqing, China",93,161.8K followers
 18,"Algiers, Algeria",91,36.7K followers
 19,"Mexico City, Mexico",91,333.1K followers
 20,"Wuhan, China",91,304.3K followers
 21,"Dubai, United Arab Emirates",89,346.7K followers
-22,"Kuala Lumpur, Malaysia",88,366.3K followers
+22,"Kuala Lumpur, Malaysia",88,366.2K followers
 23,"Kinshasa, Democratic Republic of the Congo",87,6.4K followers
 24,"Madrid, Spain",87,318.4K followers
 25,"Incheon, South Korea",83,20.1K followers
@@ -42,36 +42,36 @@ Rank,Location,AQI Level,Followers
 41,"Cairo City, Egypt",64,22.5K followers
 42,"Ho Chi Minh City, Vietnam",64,2.2M followers
 43,"Tashkent, Uzbekistan",63,102.9K followers
-44,"Hanoi, Vietnam",62,2.1M followers
+44,"Hanoi, Vietnam",61,2.1M followers
 45,"Taipei, Taiwan",59,956.7K followers
 46,"Kaohsiung, Taiwan",59,672.5K followers
-47,"Guangzhou, China",59,1.5M followers
-48,"Berlin, Germany",58,185.7K followers
-49,"Santiago, Chile",57,91.6K followers
-50,"Hong Kong, Hong Kong SAR",57,648.5K followers
-51,"Sao Paulo, Brazil",57,78.2K followers
-52,"Wroclaw, Poland",56,251.4K followers
-53,"Skopje, North Macedonia",56,12.6K followers
+47,"Guangzhou, China",57,1.5M followers
+48,"Santiago, Chile",57,91.6K followers
+49,"Hong Kong, Hong Kong SAR",57,648.5K followers
+50,"Sao Paulo, Brazil",57,78.2K followers
+51,"Wroclaw, Poland",56,251.5K followers
+52,"Skopje, North Macedonia",56,12.6K followers
+53,"Berlin, Germany",56,185.7K followers
 54,"Kuwait City, Kuwait",55,62.2K followers
-55,"Shenzhen, China",55,365.4K followers
-56,"Bratislava, Slovakia",54,37K followers
+55,"Bratislava, Slovakia",55,37K followers
+56,"Shenzhen, China",55,365.4K followers
 57,"Pristina, Kosovo",54,11.7K followers
 58,"Batam, Indonesia",53,1.3M followers
 59,"Addis Ababa, Ethiopia",53,14.5K followers
 60,"Nairobi, Kenya",53,12.7K followers
 61,"Moscow, Russia",52,738.2K followers
 62,"Portland, USA",51,117.3K followers
-63,"Vienna, Austria",50,137K followers
-64,"Sarajevo, Bosnia Herzegovina",50,45.5K followers
-65,"Bucharest, Romania",49,59.9K followers
-66,"Prague, Czech Republic",48,102.9K followers
+63,"Prague, Czech Republic",50,102.9K followers
+64,"Vienna, Austria",50,137K followers
+65,"Sarajevo, Bosnia Herzegovina",50,45.5K followers
+66,"Bucharest, Romania",49,59.9K followers
 67,"Astana, Kazakhstan",47,23.3K followers
 68,"Kuching, Malaysia",45,48.3K followers
 69,"Baghdad, Iraq",45,18.4K followers
 70,"Kyoto, Japan",45,76.3K followers
-71,"Budapest, Hungary",43,19.7K followers
-72,"Warsaw, Poland",42,317.3K followers
-73,"Tokyo, Japan",41,981.4K followers
+71,"Tokyo, Japan",45,981.4K followers
+72,"Budapest, Hungary",43,19.7K followers
+73,"Warsaw, Poland",42,317.3K followers
 74,"Sofia, Bulgaria",40,107.3K followers
 75,"Los Angeles, USA",40,5.7M followers
 76,"Lisbon, Portugal",39,18.3K followers
@@ -87,7 +87,7 @@ Rank,Location,AQI Level,Followers
 86,"Tehran, Iran",33,1M followers
 87,"Krasnoyarsk, Russia",33,93.4K followers
 88,"Krakow, Poland",33,299.3K followers
-89,"Kyiv, Ukraine",33,261.2K followers
+89,"Kyiv, Ukraine",33,261.1K followers
 90,"Kobe, Japan",33,26.8K followers
 91,"Detroit, USA",32,23.5K followers
 92,"Chicago, USA",31,38.9K followers
