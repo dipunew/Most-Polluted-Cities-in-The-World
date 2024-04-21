@@ -1,7 +1,7 @@
 Rank,Location,AQI Level,Followers
 1,"Kathmandu, Nepal",160,144.5K followers
-2,"Chengdu, China",151,1.7M followers
-3,"Wuhan, China",151,315.8K followers
+2,"Wuhan, China",151,315.8K followers
+3,"Chengdu, China",144,1.7M followers
 4,"Yangon, Myanmar",141,23.1K followers
 5,"Bangkok, Thailand",139,5.3M followers
 6,"Kolkata, India",124,1.4M followers
@@ -13,7 +13,7 @@ Rank,Location,AQI Level,Followers
 12,"Chiang Mai, Thailand",102,11.7M followers
 13,"Kinshasa, Democratic Republic of the Congo",99,6.6K followers
 14,"Santiago, Chile",96,93.1K followers
-15,"Riyadh, Saudi Arabia",95,83.6K followers
+15,"Riyadh, Saudi Arabia",95,83.5K followers
 16,"Jerusalem, Israel",95,59.2K followers
 17,"Phnom Penh, Cambodia",93,393.6K followers
 18,"Mexico City, Mexico",91,338K followers
@@ -36,13 +36,13 @@ Rank,Location,AQI Level,Followers
 35,"Cairo City, Egypt",61,24.8K followers
 36,"Taipei, Taiwan",61,972.9K followers
 37,"Mumbai, India",61,1.5M followers
-38,"Dakar, Senegal",59,10.6K followers
-39,"Sao Paulo, Brazil",59,79.5K followers
-40,"Los Angeles, USA",58,6M followers
-41,"Accra, Ghana",57,6.2K followers
-42,"Tehran, Iran",55,1M followers
-43,"Incheon, South Korea",54,22K followers
-44,"Guangzhou, China",53,1.5M followers
+38,"Guangzhou, China",61,1.5M followers
+39,"Dakar, Senegal",59,10.6K followers
+40,"Sao Paulo, Brazil",59,79.5K followers
+41,"Los Angeles, USA",58,6M followers
+42,"Accra, Ghana",57,6.2K followers
+43,"Tehran, Iran",55,1M followers
+44,"Incheon, South Korea",54,22K followers
 45,"Lima, Peru",53,34.5K followers
 46,"Seoul, South Korea",53,6.3M followers
 47,"Bogota, Colombia",52,79.2K followers
@@ -60,7 +60,7 @@ Rank,Location,AQI Level,Followers
 59,"Lahore, Pakistan",39,379.6K followers
 60,"Kyiv, Ukraine",39,270.6K followers
 61,"Oslo, Norway",38,31.7K followers
-62,"Madrid, Spain",38,324.8K followers
+62,"Madrid, Spain",38,324.9K followers
 63,"Krasnoyarsk, Russia",37,94.9K followers
 64,"Amsterdam, Netherlands",37,233.1K followers
 65,"Skopje, North Macedonia",36,13.5K followers
