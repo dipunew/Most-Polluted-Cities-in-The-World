@@ -1,9 +1,9 @@
 Rank,Location,AQI Level,Followers
-1,"Delhi, India",196,2.7M followers
+1,"Delhi, India",188,2.7M followers
 2,"Kinshasa, Democratic Republic of the Congo",162,6.7K followers
 3,"Jakarta, Indonesia",162,1.7M followers
 4,"Doha, Qatar",160,101K followers
-5,"Kathmandu, Nepal",157,147.3K followers
+5,"Kathmandu, Nepal",159,147.3K followers
 6,"Dhaka, Bangladesh",156,226.5K followers
 7,"Lahore, Pakistan",156,385.7K followers
 8,"Manama, Bahrain",149,30.1K followers
@@ -17,13 +17,13 @@ Rank,Location,AQI Level,Followers
 16,"Brussels, Belgium",90,141.1K followers
 17,"Dubai, United Arab Emirates",90,373.1K followers
 18,"Kuwait City, Kuwait",89,64K followers
-19,"Mumbai, India",89,1.5M followers
-20,"Kaohsiung, Taiwan",88,688K followers
-21,"Medan, Indonesia",86,1.3M followers
-22,"Kuala Lumpur, Malaysia",84,382.1K followers
+19,"Kaohsiung, Taiwan",88,688K followers
+20,"Medan, Indonesia",86,1.3M followers
+21,"Kuala Lumpur, Malaysia",84,382.1K followers
+22,"Mumbai, India",83,1.5M followers
 23,"Ulaanbaatar, Mongolia",82,52K followers
-24,"Kolkata, India",78,1.4M followers
-25,"Karachi, Pakistan",77,69K followers
+24,"Karachi, Pakistan",77,69K followers
+25,"Kolkata, India",77,1.4M followers
 26,"Hangzhou, China",76,328.9K followers
 27,"Accra, Ghana",75,6.5K followers
 28,"Hong Kong, Hong Kong SAR",75,678.1K followers
@@ -38,11 +38,11 @@ Rank,Location,AQI Level,Followers
 37,"Batam, Indonesia",68,1.3M followers
 38,"Phnom Penh, Cambodia",68,396.6K followers
 39,"Skopje, North Macedonia",68,14.2K followers
-40,"Guangzhou, China",68,1.5M followers
-41,"Bishkek, Kyrgyzstan",68,39.5K followers
-42,"Amsterdam, Netherlands",64,236.9K followers
-43,"Chiang Mai, Thailand",64,11.7M followers
-44,"Tokyo, Japan",64,1M followers
+40,"Bishkek, Kyrgyzstan",68,39.5K followers
+41,"Tokyo, Japan",66,1M followers
+42,"Guangzhou, China",65,1.5M followers
+43,"Amsterdam, Netherlands",64,236.9K followers
+44,"Chiang Mai, Thailand",64,11.7M followers
 45,"Birmingham, United Kingdom",62,284.9K followers
 46,"Sao Paulo, Brazil",62,80.9K followers
 47,"Hanoi, Vietnam",61,2.2M followers
@@ -116,5 +116,5 @@ Rank,Location,AQI Level,Followers
 115,"Canberra, Australia",12,272.9K followers
 116,"Melbourne, Australia",12,298.1K followers
 117,"San Francisco, USA",12,586.5K followers
-118,"Seattle, USA",11,300.9K followers
-119,"Sydney, Australia",9,1.6M followers
+118,"Sydney, Australia",11,1.6M followers
+119,"Seattle, USA",11,300.9K followers
