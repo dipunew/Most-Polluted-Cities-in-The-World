@@ -2,12 +2,12 @@ Rank,Location,AQI Level,Followers
 1,"Kinshasa, Democratic Republic of the Congo",179,6.7K followers
 2,"Lahore, Pakistan",151,387K followers
 3,"Lima, Peru",138,35.2K followers
-4,"Delhi, India",127,2.7M followers
+4,"Delhi, India",115,2.7M followers
 5,"Tashkent, Uzbekistan",110,119.4K followers
 6,"Dhaka, Bangladesh",99,227K followers
-7,"Hanoi, Vietnam",92,2.2M followers
-8,"Jerusalem, Israel",91,60.3K followers
-9,"Addis Ababa, Ethiopia",91,15.3K followers
+7,"Jerusalem, Israel",91,60.3K followers
+8,"Addis Ababa, Ethiopia",91,15.3K followers
+9,"Hanoi, Vietnam",91,2.2M followers
 10,"Incheon, South Korea",91,23.1K followers
 11,"Algiers, Algeria",88,37.1K followers
 12,"Tel Aviv-Yafo, Israel",85,81.8K followers
@@ -16,20 +16,20 @@ Rank,Location,AQI Level,Followers
 15,"Wuhan, China",81,325K followers
 16,"Seoul, South Korea",81,6.5M followers
 17,"Accra, Ghana",79,6.6K followers
-18,"Mumbai, India",79,1.5M followers
-19,"Tehran, Iran",77,1M followers
-20,"Rotterdam, Netherlands",77,122.4K followers
-21,"Berlin, Germany",77,197.4K followers
+18,"Tehran, Iran",77,1M followers
+19,"Rotterdam, Netherlands",77,122.4K followers
+20,"Berlin, Germany",77,197.4K followers
+21,"Mumbai, India",77,1.5M followers
 22,"Hangzhou, China",75,331.4K followers
 23,"Osaka, Japan",73,65.4K followers
-24,"Kyoto, Japan",73,81.5K followers
-25,"Jakarta, Indonesia",73,1.7M followers
-26,"Amsterdam, Netherlands",72,237.6K followers
+24,"Jakarta, Indonesia",73,1.7M followers
+25,"Amsterdam, Netherlands",72,237.6K followers
+26,"Kyoto, Japan",72,81.5K followers
 27,"Riyadh, Saudi Arabia",71,85.6K followers
 28,"Kuwait City, Kuwait",71,64.1K followers
 29,"Wroclaw, Poland",71,254.1K followers
 30,"Sao Paulo, Brazil",71,81.1K followers
-31,"Dubai, United Arab Emirates",71,375K followers
+31,"Dubai, United Arab Emirates",71,375.1K followers
 32,"Kobe, Japan",70,27.9K followers
 33,"Baghdad, Iraq",69,20.3K followers
 34,"Kathmandu, Nepal",69,147.6K followers
@@ -39,18 +39,18 @@ Rank,Location,AQI Level,Followers
 38,"Doha, Qatar",66,101.4K followers
 39,"Cairo City, Egypt",66,27K followers
 40,"Ho Chi Minh City, Vietnam",66,2.2M followers
-41,"Tokyo, Japan",66,1M followers
-42,"Batam, Indonesia",63,1.3M followers
-43,"Kolkata, India",63,1.4M followers
-44,"Prague, Czech Republic",63,107K followers
-45,"Taipei, Taiwan",60,987.5K followers
-46,"Houston, USA",60,28.9K followers
-47,"Beijing, China",60,7M followers
-48,"Warsaw, Poland",58,327K followers
-49,"Bucharest, Romania",58,62.6K followers
-50,"Istanbul, Turkey",58,224.1K followers
-51,"Kampala, Uganda",56,9.5K followers
-52,"Chongqing, China",56,172K followers
+41,"Batam, Indonesia",63,1.3M followers
+42,"Kolkata, India",63,1.4M followers
+43,"Prague, Czech Republic",63,107K followers
+44,"Chongqing, China",62,172K followers
+45,"Tokyo, Japan",62,1M followers
+46,"Taipei, Taiwan",60,987.5K followers
+47,"Houston, USA",60,28.9K followers
+48,"Beijing, China",60,7M followers
+49,"Warsaw, Poland",58,327K followers
+50,"Bucharest, Romania",58,62.6K followers
+51,"Istanbul, Turkey",58,224.1K followers
+52,"Kampala, Uganda",56,9.5K followers
 53,"Manama, Bahrain",55,30.2K followers
 54,"Oslo, Norway",55,33.8K followers
 55,"Canberra, Australia",55,273.3K followers
@@ -99,8 +99,8 @@ Rank,Location,AQI Level,Followers
 98,"Munich, Germany",27,344K followers
 99,"Kyiv, Ukraine",27,275.4K followers
 100,"Skopje, North Macedonia",26,14.4K followers
-101,"Auckland, New Zealand",25,69.7K followers
-102,"Ulaanbaatar, Mongolia",25,52.1K followers
+101,"Auckland, New Zealand",25,69.6K followers
+102,"Ulaanbaatar, Mongolia",25,52.2K followers
 103,"San Francisco, USA",25,589.1K followers
 104,"Vancouver BC, Canada",24,121.6K followers
 105,"Pristina, Kosovo",23,13.4K followers
@@ -111,7 +111,7 @@ Rank,Location,AQI Level,Followers
 110,"Seattle, USA",17,302.3K followers
 111,"Bern, Switzerland",16,85.6K followers
 112,"Moscow, Russia",16,784.8K followers
-113,"Shenzhen, China",16,392.5K followers
+113,"Shenzhen, China",16,392.6K followers
 114,"Zagreb, Croatia",16,15.2K followers
 115,"Kabul, Afghanistan",11,23.3K followers
 116,"Krasnoyarsk, Russia",11,96K followers
