@@ -2,7 +2,7 @@ Rank,Location,AQI Level,Followers
 1,"Jakarta, Indonesia",166,1.7M followers
 2,"Delhi, India",163,2.7M followers
 3,"Jerusalem, Israel",155,60.4K followers
-4,"Lima, Peru",155,35.3K followers
+4,"Lima, Peru",153,35.3K followers
 5,"Houston, USA",101,29.1K followers
 6,"Kinshasa, Democratic Republic of the Congo",96,6.8K followers
 7,"Karachi, Pakistan",94,69.5K followers
@@ -13,7 +13,7 @@ Rank,Location,AQI Level,Followers
 12,"Medan, Indonesia",82,1.3M followers
 13,"Ulaanbaatar, Mongolia",82,52.3K followers
 14,"Beijing, China",82,7.1M followers
-15,"Dubai, United Arab Emirates",82,376.1K followers
+15,"Dubai, United Arab Emirates",82,376.2K followers
 16,"Batam, Indonesia",79,1.3M followers
 17,"Chongqing, China",79,172.3K followers
 18,"Tel Aviv-Yafo, Israel",78,82.1K followers
@@ -29,26 +29,26 @@ Rank,Location,AQI Level,Followers
 28,"Ho Chi Minh City, Vietnam",65,2.2M followers
 29,"Baghdad, Iraq",64,20.4K followers
 30,"Helsinki, Finland",64,74.7K followers
-31,"Kuala Lumpur, Malaysia",63,383.7K followers
+31,"Kuala Lumpur, Malaysia",64,383.7K followers
 32,"Guangzhou, China",62,1.5M followers
 33,"Canberra, Australia",61,273.5K followers
 34,"Kuwait City, Kuwait",60,64.2K followers
-35,"Shenzhen, China",60,393.5K followers
-36,"Nairobi, Kenya",60,14.2K followers
-37,"Bishkek, Kyrgyzstan",60,40.1K followers
-38,"Los Angeles, USA",59,6.2M followers
-39,"Kampala, Uganda",58,9.5K followers
-40,"Bratislava, Slovakia",57,38.2K followers
-41,"Lyon, France",56,491.3K followers
+35,"Bratislava, Slovakia",60,38.2K followers
+36,"Shenzhen, China",60,393.5K followers
+37,"Nairobi, Kenya",60,14.2K followers
+38,"Bishkek, Kyrgyzstan",60,40.1K followers
+39,"Los Angeles, USA",59,6.2M followers
+40,"Kampala, Uganda",58,9.5K followers
+41,"Lyon, France",56,491.4K followers
 42,"Prague, Czech Republic",56,107.1K followers
 43,"Tashkent, Uzbekistan",56,120K followers
 44,"Sydney, Australia",56,1.6M followers
 45,"Phnom Penh, Cambodia",55,397.3K followers
 46,"Taipei, Taiwan",55,988.5K followers
-47,"Kolkata, India",55,1.4M followers
-48,"Accra, Ghana",55,6.7K followers
+47,"Accra, Ghana",55,6.7K followers
+48,"Kolkata, India",53,1.4M followers
 49,"Osaka, Japan",53,65.7K followers
-50,"Hong Kong, Hong Kong SAR",53,681.4K followers
+50,"Hong Kong, Hong Kong SAR",53,681.5K followers
 51,"Incheon, South Korea",53,23.2K followers
 52,"Seoul, South Korea",53,6.5M followers
 53,"Kuching, Malaysia",52,49.2K followers
@@ -67,29 +67,29 @@ Rank,Location,AQI Level,Followers
 66,"Wuhan, China",44,325.9K followers
 67,"Bucharest, Romania",44,62.7K followers
 68,"Vienna, Austria",44,144.1K followers
-69,"New York City, USA",43,1.9M followers
-70,"Wroclaw, Poland",42,254.2K followers
-71,"Lisbon, Portugal",40,22.4K followers
-72,"Shanghai, China",40,2.1M followers
-73,"Munich, Germany",39,344.6K followers
-74,"Rome, Italy",39,65.8K followers
-75,"Sarajevo, Bosnia Herzegovina",39,50.8K followers
-76,"Melbourne, Australia",39,300K followers
-77,"Kabul, Afghanistan",38,23.4K followers
-78,"Singapore, Singapore",38,871K followers
-79,"Birmingham, United Kingdom",37,285.7K followers
-80,"Amsterdam, Netherlands",37,238K followers
-81,"Astana, Kazakhstan",37,26.8K followers
+69,"Astana, Kazakhstan",43,26.8K followers
+70,"New York City, USA",43,1.9M followers
+71,"Wroclaw, Poland",42,254.2K followers
+72,"Lisbon, Portugal",40,22.4K followers
+73,"Shanghai, China",40,2.1M followers
+74,"Munich, Germany",39,344.6K followers
+75,"Singapore, Singapore",39,871K followers
+76,"Rome, Italy",39,65.8K followers
+77,"Sarajevo, Bosnia Herzegovina",39,50.8K followers
+78,"Melbourne, Australia",39,300K followers
+79,"Kabul, Afghanistan",38,23.4K followers
+80,"Birmingham, United Kingdom",37,285.7K followers
+81,"Amsterdam, Netherlands",37,238K followers
 82,"Athens, Greece",36,27.3K followers
 83,"Nice, France",35,457.4K followers
-84,"London, United Kingdom",34,248.7K followers
-85,"Krakow, Poland",33,307.7K followers
-86,"Paris, France",33,5.6M followers
-87,"Pristina, Kosovo",33,13.5K followers
-88,"Kaohsiung, Taiwan",33,690K followers
-89,"Sofia, Bulgaria",33,110.5K followers
-90,"Toronto, Canada",33,347.7K followers
-91,"Sao Paulo, Brazil",33,81.3K followers
+84,"Sao Paulo, Brazil",34,81.3K followers
+85,"London, United Kingdom",34,248.7K followers
+86,"Krakow, Poland",33,307.7K followers
+87,"Paris, France",33,5.6M followers
+88,"Pristina, Kosovo",33,13.5K followers
+89,"Kaohsiung, Taiwan",33,690K followers
+90,"Sofia, Bulgaria",33,110.5K followers
+91,"Toronto, Canada",33,347.7K followers
 92,"Belgrade, Serbia",33,206.2K followers
 93,"Kobe, Japan",33,27.9K followers
 94,"Rotterdam, Netherlands",32,122.5K followers
@@ -99,14 +99,14 @@ Rank,Location,AQI Level,Followers
 98,"Zagreb, Croatia",27,15.3K followers
 99,"Bogota, Colombia",27,80.4K followers
 100,"Chiang Mai, Thailand",27,11.7M followers
-101,"Chiang Mai, Thailand",27,11.7M followers
-102,"Brussels, Belgium",25,141.7K followers
-103,"Denver, USA",24,1.5M followers
-104,"Bangkok, Thailand",23,5.3M followers
-105,"Tehran, Iran",22,1M followers
-106,"Detroit, USA",22,25.2K followers
-107,"Minneapolis, USA",22,17K followers
-108,"Kyiv, Ukraine",20,275.9K followers
+101,"Brussels, Belgium",25,141.7K followers
+102,"Denver, USA",24,1.5M followers
+103,"Skopje, North Macedonia",23,14.4K followers
+104,"Kyiv, Ukraine",23,275.9K followers
+105,"Minneapolis, USA",23,17K followers
+106,"Bangkok, Thailand",23,5.3M followers
+107,"Tehran, Iran",22,1M followers
+108,"Detroit, USA",22,25.2K followers
 109,"Salt Lake City, USA",20,47.3K followers
 110,"San Francisco, USA",15,590.2K followers
 111,"Vancouver BC, Canada",14,122.2K followers
@@ -114,7 +114,7 @@ Rank,Location,AQI Level,Followers
 113,"Dublin, Ireland",13,21.3K followers
 114,"Chicago, USA",13,45.5K followers
 115,"Portland, USA",13,132.5K followers
-116,"Krasnoyarsk, Russia",11,96.1K followers
-117,"Dhaka, Bangladesh",11,227.3K followers
-118,"Seattle, USA",8,303.1K followers
+116,"Dhaka, Bangladesh",11,227.3K followers
+117,"Seattle, USA",8,303.1K followers
+118,"Krasnoyarsk, Russia",5,96.1K followers
 119,"Auckland, New Zealand",2,69.9K followers
