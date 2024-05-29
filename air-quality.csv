@@ -17,9 +17,9 @@ Rank,Location,AQI Level,Followers
 16,"Kolkata, India",89,1.4M followers
 17,"Tashkent, Uzbekistan",88,120.4K followers
 18,"Riyadh, Saudi Arabia",84,85.8K followers
-19,"Cairo City, Egypt",82,27.4K followers
-20,"Wuhan, China",81,326.3K followers
-21,"Addis Ababa, Ethiopia",80,15.4K followers
+19,"Addis Ababa, Ethiopia",84,15.4K followers
+20,"Cairo City, Egypt",82,27.4K followers
+21,"Wuhan, China",81,326.3K followers
 22,"Mumbai, India",80,1.5M followers
 23,"Kuwait City, Kuwait",79,64.2K followers
 24,"Ho Chi Minh City, Vietnam",79,2.2M followers
@@ -28,7 +28,7 @@ Rank,Location,AQI Level,Followers
 27,"Astana, Kazakhstan",76,26.9K followers
 28,"Dubai, United Arab Emirates",75,376.8K followers
 29,"Tel Aviv-Yafo, Israel",74,82.2K followers
-30,"Guangzhou, China",70,1.5M followers
+30,"Guangzhou, China",73,1.5M followers
 31,"Istanbul, Turkey",69,224.9K followers
 32,"Lyon, France",68,491.8K followers
 33,"Hanoi, Vietnam",68,2.2M followers
@@ -47,16 +47,16 @@ Rank,Location,AQI Level,Followers
 46,"Pristina, Kosovo",56,13.5K followers
 47,"Chiang Mai, Thailand",56,11.7M followers
 48,"Incheon, South Korea",55,23.2K followers
-49,"Seoul, South Korea",55,6.5M followers
-50,"Singapore, Singapore",54,871.8K followers
-51,"Hong Kong, Hong Kong SAR",54,682.2K followers
-52,"Canberra, Australia",54,273.6K followers
-53,"Jerusalem, Israel",53,60.5K followers
-54,"Helsinki, Finland",53,74.8K followers
-55,"Shenzhen, China",53,394.1K followers
-56,"Kaohsiung, Taiwan",53,690.4K followers
-57,"Shanghai, China",53,2.1M followers
-58,"Chongqing, China",52,172.5K followers
+49,"Singapore, Singapore",54,871.8K followers
+50,"Canberra, Australia",54,273.6K followers
+51,"Jerusalem, Israel",53,60.5K followers
+52,"Helsinki, Finland",53,74.8K followers
+53,"Shenzhen, China",53,394.1K followers
+54,"Kaohsiung, Taiwan",53,690.4K followers
+55,"Shanghai, China",53,2.1M followers
+56,"Seoul, South Korea",53,6.5M followers
+57,"Chongqing, China",52,172.5K followers
+58,"Hong Kong, Hong Kong SAR",52,682.2K followers
 59,"Wroclaw, Poland",51,254.2K followers
 60,"Sarajevo, Bosnia Herzegovina",51,50.9K followers
 61,"Warsaw, Poland",49,327.5K followers
@@ -70,7 +70,7 @@ Rank,Location,AQI Level,Followers
 69,"Budapest, Hungary",44,23.2K followers
 70,"Oslo, Norway",43,34.2K followers
 71,"Bratislava, Slovakia",42,38.2K followers
-72,"Vienna, Austria",42,144.2K followers
+72,"Vienna, Austria",42,144.3K followers
 73,"Kyiv, Ukraine",40,276.4K followers
 74,"Yangon, Myanmar",39,24.9K followers
 75,"Kabul, Afghanistan",38,23.6K followers
@@ -86,11 +86,11 @@ Rank,Location,AQI Level,Followers
 85,"San Francisco, USA",35,590.9K followers
 86,"Athens, Greece",34,27.4K followers
 87,"London, United Kingdom",34,249.7K followers
-88,"Stockholm, Sweden",33,36.9K followers
-89,"Lisbon, Portugal",33,22.4K followers
-90,"Montreal, Canada",33,111.3K followers
-91,"Bishkek, Kyrgyzstan",33,40.2K followers
-92,"Rotterdam, Netherlands",32,122.6K followers
+88,"Rotterdam, Netherlands",33,122.6K followers
+89,"Stockholm, Sweden",33,36.9K followers
+90,"Lisbon, Portugal",33,22.4K followers
+91,"Montreal, Canada",33,111.3K followers
+92,"Bishkek, Kyrgyzstan",33,40.2K followers
 93,"Amsterdam, Netherlands",32,238.2K followers
 94,"Birmingham, United Kingdom",29,285.9K followers
 95,"Toronto, Canada",29,348.3K followers
